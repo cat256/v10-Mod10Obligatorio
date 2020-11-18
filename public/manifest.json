@@ -1,0 +1,70 @@
+{
+    "name": "shoot game",
+    "short_name": "game",
+    "icons": [
+        {
+            "src": "assets/bueno.png",
+            "sizes": "100x100",
+            "type": "img/png"},
+        {
+            "src": "assets/bueno_muerto.png",
+            "sizes": "100x95",
+            "type": "img/png"},
+        {
+            "src": "assets/malo.png",
+            "sizes": "98x94",
+            "type": "img/png"},
+        {
+            "src": "assets/malo_muerto.png",
+            "sizes": "100x95",
+            "type": "img/png"},
+        {
+            "src": "assets/jefe.png",
+            "sizes": "100x95",
+            "type": "img/png"},
+        {
+            "src": "assets/jefe_muerto.png",
+            "sizes": "100x95",
+            "type": "img/png"},
+        {
+            "src": "assets/shot1.png",
+            "sizes": "30x30",
+            "type": "img/png"},
+        {
+            "src": "assets/shot2.png",
+            "sizes": "30x30",
+            "type": "img/png"},
+        {
+            "src": "assets/you_win.png",
+            "sizes": "640x80",
+            "type": "img/png"},
+        {
+            "src": "assets/game_over.png",
+            "sizes": "320x160",
+            "type": "img/png"},
+        {
+            "src": "assets/gamepad_512.png",
+            "sizes": "512x512",
+            "type": "img/png"},
+        {
+            "src": "assets/gamepad_256.png",
+            "sizes": "256x256",
+            "type": "img/png"},
+        {
+            "src": "assets/gamepad_192.png",
+            "sizes": "192x192",
+            "type": "img/png"},
+        {
+            "src": "assets/gamepad_144.png",
+            "sizes": "144x144",
+            "type": "img/png"},
+        {
+            "src": "assets/gamepad_128.png",
+            "sizes": "128x128",
+            "type": "img/png"}
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#333333",
+    "theme_color": "#6200ee"
+}
